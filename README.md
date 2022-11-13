@@ -13,9 +13,14 @@ Fecha: 	31-10-2022
 1.- OBJETIVOS
 
 Objetivo general
-
+Demostrar los principios básicos que debe manejar el estudiante acerca de unidades eléctricas de medida y toma de las mismas, mediante el manejo de prefijos métricos y uso apropiado de las herramientas para lograr una sinergia entre conocimiento teórico y práctica refiriéndonos a electrónica básica
 Objetivos especificos
-    
+   -Declarar cuales son las unidades de medición básicas y derivadas que se usan en el campo de electrónica 
+   
+   -Comparar la relación entre notación científica y los prefijos métricos de las unidades 
+   
+   -Mencionar la utilidad y uso que tienen tanto componentes eléctricos como herramientas
+   
 2.-MARCO TEORICO
 
 Capitulo 1
@@ -254,7 +259,17 @@ La resistencia del cuerpo humano oscila entre 10 a 50 kiloohmios y depende de lo
 
 4.-VIDEOS
 
+LINK: https://www.youtube.com/watch?v=E9pD9sdjwKo
+
 5.-CONCLUSIONES
+
+- Dentro de electrónica básica se nos planteó las unidades de referencias como el volteje, amperios y ohm, mismos que no son más que la relación entre unidades de medición básica o simplemente derivaciones de ellas.
+
+- La importancia de elementos de protección dentro de un circuito eléctrico siendo estos empleados para modificar cortos paramentos dentro del circuito como las resistencias o cortar el flujo de energía con la finalidad de salvaguardar los elementos que conforman una función eléctrica(fusibles).
+
+- Interpretación y diferenciación entre el uso de un milímetro digital y un multímetro analógico, aunque cumplen con la misma función de medición su uso y métodos de lectura varia según el modelo o necesidad del usuario.
+
+-Es importante recalcar la severidad que conlleva el manejo de energía eléctrica y como esta puede llegar a causar fuertes lesiones dentro del organismo de un ser humano o incluso desencadenar pérdidas humanas.
 
 6.-BIBLIOGRAFIA
 
