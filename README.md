@@ -17,6 +17,7 @@ Objetivo general
 Demostrar los principios básicos que debe manejar el estudiante acerca de unidades eléctricas de medida y toma de las mismas, mediante el manejo de prefijos métricos y uso apropiado de las herramientas para lograr una sinergia entre conocimiento teórico y práctica refiriéndonos a electrónica básica.
 
 Objetivos especificos
+
    -Declarar cuales son las unidades de medición básicas y derivadas que se usan en el campo de electrónica 
    
    -Comparar la relación entre notación científica y los prefijos métricos de las unidades 
